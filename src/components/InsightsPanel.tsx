@@ -82,9 +82,12 @@ export const InsightsPanel: React.FC<InsightsPanelProps> = ({ insights, attribut
       
       <div className="mt-6 pt-4 border-t border-gray-200">
         <p className="text-xs text-gray-500">
-          <strong>Note:</strong> These insights are automatically generated based on statistical analysis 
-          of your {attribute} data. Please consult with healthcare professionals for medical decisions.
+          <strong>TEAMMATES:</strong> 
         </p>
+        <p>DHANUSH</p>
+        <p>RAMAKRISHNAN</p>
+        <p>KAVYASHREE</p>
+        <p>MELVIN</p>
       </div>
     </div>
   );
